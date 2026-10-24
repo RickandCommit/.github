@@ -1,4 +1,4 @@
-# Rick and Commit
+# RickandCommit
 
 Gruppo del progetto didattico di **Ingegneria del Software (SWE)**, Università degli Studi di Padova, a.a. 2026/2027.
 
@@ -14,7 +14,8 @@ L'obiettivo di questa fase preliminare è condurre un'analisi critica e consapev
 
 ## Risorse
 
-- **Documentazione:** https://rickandcommit.github.io/Documentazione/
+- **Sito Documentazione:** [rickandcommit.github.io/Documentazione](https://rickandcommit.github.io/Documentazione/)
+- **Dashboard di Progetto:** [Board Kanban su GitHub Projects](https://github.com/orgs/RickandCommit/projects/3/views/1)
 
 ## Componenti del team
 
